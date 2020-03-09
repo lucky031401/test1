@@ -7,4 +7,4 @@
 - jogging
 - tennis
 ## interests
-- classic music
+- rap music
